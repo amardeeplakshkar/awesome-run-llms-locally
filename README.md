@@ -5,17 +5,17 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![Entries](https://img.shields.io/badge/Entries-22-blue.svg)](#contents)
+[![Entries](https://img.shields.io/badge/Entries-23-blue.svg)](#contents)
 
 **Keywords:** `local llm tools` · `run llms locally` · `local ai` · `ollama` · `llama.cpp` · `lm studio` · `run ai locally`
 
 ## Why This List
 
-Local LLMs let you run AI models on your own computer with privacy, no per-token cost and offline access. This list keeps it simple: 22 local LLM tools worth trying first, grouped by job, one line each.
+Local LLMs let you run AI models on your own computer with privacy, no per-token cost and offline access. This list keeps it simple: 23 local LLM tools worth trying first, grouped by job, one line each.
 
 ## Contents
 
-- Run Models Locally - 8 tools to run models on your own computer
+- Run Models Locally - 9 tools to run models on your own computer
 - Serve and Chat - 7 tools to serve models and chat with them
 - Local Coding and Helpers - 7 tools for coding and picking the right model
 
@@ -31,6 +31,7 @@ Local LLMs let you run AI models on your own computer with privacy, no per-token
 | [LocalAI](https://github.com/mudler/LocalAI) | Open source local AI server compatible with the OpenAI API |
 | [KoboldCpp](https://github.com/LostRuins/koboldcpp) | Easy local LLM runner with a built in chat interface |
 | [Project Maya](https://github.com/mw00/project-maya) | Runs very large MoE models on your own NVIDIA or AMD GPUs with browser chat and compatible APIs, free and open source |
+| [AI:GO](https://go.backend.ai/) | Runs LLMs locally on your own PC in a desktop app and headless server with an OpenAI-compatible API - free, Apache 2.0, no account needed |
 
 ## Serve and Chat
 
